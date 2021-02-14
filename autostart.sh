@@ -5,6 +5,7 @@
 /bin/bash ~/Desktop/scripts/wp-autochange.sh &
 #picom -o 0.95 -i 0.88 --detect-rounded-corners --vsync --blur-background-fixed -f -D 5 -c -b
 picom -b &
+fcitx &
 /bin/bash ~/Desktop/scripts/tap-to-click.sh &
 /bin/bash ~/Desktop/scripts/inverse-scroll.sh &
 ~/scripts/autostart_wait.sh &
